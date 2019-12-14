@@ -1,0 +1,50 @@
+.jumbotron {
+    margin-top: 200px;
+    background-color: transparent;
+}
+.jumbotron .display-4 {
+    color: wheat;
+    font-weight: 200px;
+    font-family: arial;
+}
+
+.jumbotron .lead {
+    color: white;
+    font-weight: lighter;
+    }
+
+td {
+    background-color: white;
+}
+
+table {
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+
+.judul h2 {
+   color: wheat; 
+   margin-top: 100px;
+}
+
+tbody  a .btn {
+    margin-left: 10px;
+}
+
+a .btn-warning {
+    color: white;
+}
+
+tbody .btn-warning:hover {
+    color: white;
+    font-weight: 450;
+}
+
+.tambah .btn-success {
+    margin-bottom: -70px;
+}
+
+.btn-danger {
+    color: white;
+}

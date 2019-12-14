@@ -1,0 +1,11 @@
+{
+    "name": "rozorpc/belajarphp",
+    "authors": [
+        {
+            "name": "RozorTech",
+            "email": "rozoer120701@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {"server":"php -S localhost:8000"}
+}
